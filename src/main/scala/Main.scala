@@ -1,6 +1,8 @@
-package main.scala
 
-object Main {
-  val a = "hello"
-  println("hello")
+object  Main {
+  def main(args:Array[String]){
+     val a = "hello"
+    println("hello") 
+  }
+  
 }
